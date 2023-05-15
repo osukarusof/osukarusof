@@ -2,6 +2,10 @@
   Hello, I'm Oscar Sanchez! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h2>
 
+<p align="justify">
+Hello, my name is Oscar Sanchez, Backend Developer, I am passionate about the world of technology and its impact it can have in the real world and I strongly believe that I can create innovative solutions for business processes and problems that will ultimately lead to a better user experience. For this reason I became a developer excited to learn and innovate in this world.
+</p>
+
 <h2>Languages and Tools</h2>
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
