@@ -24,4 +24,4 @@
 
 <h2>Socials</h2>
 
-<a href="https://www.linkedin.com/in/oscaredusan/" target="_blank" alt="LinkedIn">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscaredusan/)
