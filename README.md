@@ -4,7 +4,6 @@
 
 <img align="right" alt="GIF" src="https://github.com/osukarusof/osukarusof/blob/main/programmer.gif?raw=true" height="280" />
 
-
 ## About me
 
 <p>Hello, my name is Oscar Sanchez, passionate about technology and its impact in the real world, I firmly believe that I can create innovative solutions for processes and problems, which will ultimately result in a better user experience. For this reason I became a developer excited to learn and innovate.</p>
@@ -33,7 +32,3 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 </details>
-
-
-
-  
