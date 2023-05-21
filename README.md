@@ -5,11 +5,11 @@
 <img align="right" alt="GIF" src="https://github.com/osukarusof/osukarusof/blob/main/programmer.gif?raw=true" height="280" />
 
 
-### About me
+## About me
 
-<p>Hello, my name is Oscar Sanchez, Backend Developer, I am passionate about the world of technology and its impact it can have in the real world and I strongly believe that I can create innovative solutions for business processes and problems that will ultimately lead to a better user experience. For this reason I became a developer excited to learn and innovate in this world.</p>
+<p>Hello, my name is Oscar Sanchez, passionate about technology and its impact in the real world, I firmly believe that I can create innovative solutions for processes and problems, which will ultimately result in a better user experience. For this reason I became a developer excited to learn and innovate.</p>
 
-### Socials
+## Socials
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscaredusan/)
 
