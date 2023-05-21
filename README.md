@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscaredusan/)
 
 <details> 
-<summary><h2>⚡ Languages and Tools</h2></summary>
+<summary><h2> 🛠️ Languages and Tools</h2></summary>
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
@@ -31,4 +31,13 @@
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+</details>
+
+<details>
+  <summary><h2>:zap: GitHub Stats</h2></summary>
+  
+<div align="center">
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=osukarusof&theme=dark&mode=weekly)](https://git.io/streak-stats)
+</div>
 </details>
