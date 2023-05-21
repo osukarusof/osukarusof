@@ -1,12 +1,10 @@
-<h2>
+<h1 align="center">
   Hello, I'm Oscar Sanchez! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-</h2>
+</h1>
 
-<p align="justify">
 Hello, my name is Oscar Sanchez, Backend Developer, I am passionate about the world of technology and its impact it can have in the real world and I strongly believe that I can create innovative solutions for business processes and problems that will ultimately lead to a better user experience. For this reason I became a developer excited to learn and innovate in this world.
-</p>
 
-<h2>Languages and Tools</h2>
+## Languages and Tools
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
@@ -26,6 +24,6 @@ Hello, my name is Oscar Sanchez, Backend Developer, I am passionate about the wo
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
 
-<h2>Socials</h2>
+## Socials
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscaredusan/)
