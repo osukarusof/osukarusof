@@ -38,8 +38,4 @@
   <img align="left" alt="Oscar Sanchez's Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=osukarusof&theme=dark&card_width=450&mode=weekly" />
   
   <img align="right" alt="Oscar Sanchez's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=osukarusof&show_icons=true&theme=dark&card_width=450" />
-  
-<div align="center">
-  
-</div>
 </details>
