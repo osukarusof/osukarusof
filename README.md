@@ -2,8 +2,8 @@
   Hello, I'm Oscar Sanchez! 👋
 </h1>
 
+<img align="right" alt="GIF" src="https://github.com/osukarusof/osukarusof/blob/main/programmer.gif?raw=true" height="280" />
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="400" height="300" />
 
 ### About me
 
