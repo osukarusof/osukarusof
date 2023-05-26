@@ -2,7 +2,9 @@
   Hello, I'm Oscar Sanchez! 👋
 </h1>
 
-<img align="right" height="280" width="350" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" />
+img[src$='#img-thumbnail'] { float:left;}
+
+<img class="#pt-4" align="right" height="280" width="350" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" />
 
 ## About me
 
@@ -34,8 +36,8 @@
 </details>
 
 <details>
-  <summary><h2>:zap: GitHub Stats</h2></summary>
-  <img class="{{ pt-4 }}" align="left" width="400" alt="Oscar Sanchez's Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=osukarusof&theme=dark&card_width=450&mode=weekly" />
+  <summary><h2> ⚡ GitHub Stats</h2></summary>
+  <img align="left" width="400" alt="Oscar Sanchez's Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=osukarusof&theme=dark&card_width=450&mode=weekly" />
   
-  <img class="pt-4 !important" align="right" width="400" alt="Oscar Sanchez's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=osukarusof&show_icons=true&theme=dark&card_width=450" />
+  <img align="right" width="400" alt="Oscar Sanchez's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=osukarusof&show_icons=true&theme=dark&card_width=450" />
 </details>
