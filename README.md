@@ -2,7 +2,6 @@
   Hello, I'm Oscar Sanchez! 👋
 </h1>
 
-![alt text](/src/of/image.jpg "pt-4") 
 
 <img class="#pt-4" align="right" height="280" width="350" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" />
 
