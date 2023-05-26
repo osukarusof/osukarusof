@@ -35,7 +35,7 @@
 
 <details>
   <summary><h2>:zap: GitHub Stats</h2></summary>
-  <img class="pt-4" align="left" width="400" alt="Oscar Sanchez's Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=osukarusof&theme=dark&card_width=450&mode=weekly" />
+  <img class="pt-4 !importan" align="left" width="400" alt="Oscar Sanchez's Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=osukarusof&theme=dark&card_width=450&mode=weekly" />
   
-  <img class="pt-4" align="right" width="400" alt="Oscar Sanchez's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=osukarusof&show_icons=true&theme=dark&card_width=450" />
+  <img class="pt-4 !important" align="right" width="400" alt="Oscar Sanchez's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=osukarusof&show_icons=true&theme=dark&card_width=450" />
 </details>
