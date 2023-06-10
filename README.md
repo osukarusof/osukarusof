@@ -10,7 +10,7 @@
 
 ## Socials
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscaredusan/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscaredusan/)
 
 <details> 
 <summary><h2> 🛠️ Languages and Tools</h2></summary>
