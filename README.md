@@ -10,7 +10,7 @@
 
 ## Socials
 
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?link=www.oscar.com&style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?url=www.oscar.com&style=for-the-badge&logo=linkedin&logoColor=white" />
 
 <details> 
 <summary><h2> 🛠️ Languages and Tools</h2></summary>
