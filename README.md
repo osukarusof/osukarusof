@@ -10,7 +10,7 @@
 
 ## Socials
 
-<a title="Los Tejos" href="http://www.lostejos.com"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Los Tejos" /></a>
+<a title="Los Tejos" href="http://www.lostejos.com" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Los Tejos" /></a>
 
 
 <details> 
