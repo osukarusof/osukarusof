@@ -10,7 +10,8 @@
 
 ## Socials
 
-<img hrf="www.ocscar.com" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a title="Los Tejos" href="http://www.lostejos.com"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Los Tejos" /></a>
+
 
 <details> 
 <summary><h2> 🛠️ Languages and Tools</h2></summary>
