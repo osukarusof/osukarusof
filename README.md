@@ -8,6 +8,16 @@
 
 <p>Hello, my name is Oscar Sanchez, passionate about technology and its impact in the real world, I firmly believe that I can create innovative solutions for processes and problems, which will ultimately result in a better user experience. For this reason I became a developer excited to learn and innovate.</p>
 
+<!--<p align="left">
+      <a href="https://github.com/osukarusof?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/osukarusof?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         
+  <a href="https://github.com/osukarusof?tab=repositories">
+    <img alt="total repositories" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/osukarusof?color=55960c&style=for-the-badge&labelColor=488207&logo=repo"/>
+  </a>
+</p>-->
+
+
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscaredusan/)
@@ -37,5 +47,6 @@
   <summary><h2> ⚡ GitHub Stats</h2></summary>
   <img align="left" width="400" alt="Oscar Sanchez's Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=osukarusof&theme=dark&card_width=450&mode=weekly" />
   
-  <img align="right" width="400" alt="Oscar Sanchez's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=osukarusof&show_icons=true&theme=dark&card_width=450" />
+  <img align="right" width="400" alt="Oscar Sanchez's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=osukarusof&show_icons=true&theme=dark&width=450" />
+  
 </details>
