@@ -45,8 +45,23 @@
 
 <details>
   <summary><h2> ⚡ GitHub Stats</h2></summary>
-  <img align="left" width="400" alt="Oscar Sanchez's Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=osukarusof&theme=dark&card_width=450&mode=weekly" />
   
-  <img align="right" width="400" alt="Oscar Sanchez's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=osukarusof&show_icons=true&theme=dark&width=450" />
+  <a>
+    <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=osukarusof&theme=dark&card_width=450&mode=weekly" />
+  </a>
+
+  <a>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=osukarusof&show_icons=true&theme=dark&width=450" />
+  </a>
+  
+
+  ***
+
+  <a>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=osukarusof&show_icons=true&theme=dark&width=450" />
+  </a>
   
 </details>
+
+
+
