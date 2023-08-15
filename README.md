@@ -45,10 +45,14 @@
 
 <details>
   <summary><h2> ⚡ GitHub Stats</h2></summary>
-
-  <img aling="center" width="400" alt="Oscar Sanchez's Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=osukarusof&theme=dark&card_width=450&mode=weekly" /></a>
-
-  <img aling="center" width="400" alt="Oscar Sanchez's Streak Stats" src="https://github-readme-stats.vercel.app/api?username=osukarusof&show_icons=true&theme=dark&card_width=450" /></a>
+  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=osukarusof&theme=dark&card_width=350" />
+</a>
+  
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="right" src="https://github-readme-stats.vercel.app/api?username=osukarusof&show_icons=true&theme=dark&card_width=350" />
+  </a>
   
 </details>
 
