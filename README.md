@@ -51,9 +51,6 @@
   
   <img align="right" width="400" alt="Oscar Sanchez's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=osukarusof&show_icons=true&theme=dark&width=450" />
 
-  
-  <img align="left" width="400" alt="Oscar Sanchez's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=osukarusof&show_icons=true&theme=dark&width=450" />
-  
 </details>
 
 
