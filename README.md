@@ -47,11 +47,11 @@
   <summary><h2> ⚡ GitHub Stats</h2></summary>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=osukarusof&theme=dark&card_width=320" />
+  <img height=180 align="left" src="https://github-readme-stats.vercel.app/api?username=osukarusof&theme=dark&card_width=320" />
 </a>
   
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="right" src="https://github-readme-stats.vercel.app/api?username=osukarusof&show_icons=true&theme=dark&card_width=320" />
+    <img height=180 align="right" src="https://github-readme-stats.vercel.app/api?username=osukarusof&show_icons=true&theme=dark&card_width=320" />
   </a>
   
 </details>
