@@ -38,9 +38,9 @@ Hello, my name is Oscar Sanchez, passionate about technology and its impact in t
 </h2>
 
   <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osukarusof&hide_border=true&theme=dark">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osukarusof&hide_border=true&theme=react&background=0D1117">
     <br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=osukarusof&theme=dark&hide_border=true&include_all_commits=true&count_private=true">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=osukarusof&theme=react&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117">
   </p>
 
 <h2>
