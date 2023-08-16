@@ -46,9 +46,8 @@
 <details>
   <summary><h2> ⚡ GitHub Stats</h2></summary>
 
-
-| <img height=180 align="left" src="https://github-readme-stats.vercel.app/api?username=osukarusof&theme=dark&card_width=320" /> | <img height=180 align="right" src="https://github-readme-stats.vercel.app/api?username=osukarusof&show_icons=true&theme=dark&card_width=320" /> |
-|---------------	| ---------------	|
+| <img height=180 src="https://github-readme-stats.vercel.app/api?username=osukarusof&show_icons=true&theme=dark&card_width=320" />	|
+|---	|
 
 
 | <img height=117 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osukarusof&size_weight=0.5&count_weight=0.5&theme=dark&hide_progress=true" /> 	|
