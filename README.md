@@ -33,14 +33,15 @@ Hello, my name is Oscar Sanchez, passionate about technology and its impact in t
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
-
 <h2>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="27"> <b>Github Stats</b>
 </h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=osukarusof&hide_border=false&theme=dark)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api?username=osukarusof&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
+  <p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osukarusof&hide_border=true&theme=dark">
+    <br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=osukarusof&theme=dark&hide_border=true&include_all_commits=true&count_private=true">
+  </p>
 
 <h2>
   <img src="https://media.giphy.com/media/jQ7k1pLKtlK2D1IiWs/giphy.gif" width="27"> <b>Languages</b>
