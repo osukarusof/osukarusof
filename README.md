@@ -1,3 +1,7 @@
+<h3 align="right">
+  <img align="right" alt="total repositories" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Ibague,Tolima-Colombia-236ad3?style=for-the-badge&logo=location&logoColor=white"/>
+</h3>
+
 <h1>
   <img src="https://media.giphy.com/media/1ziYzw9ERZ2EY3GtoD/giphy.gif" width ="30"><b> About me</b>
 </h1>
