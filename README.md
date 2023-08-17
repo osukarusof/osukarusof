@@ -1,4 +1,6 @@
-# About me
+<h1>
+  <img src="https://media.giphy.com/media/1ziYzw9ERZ2EY3GtoD/giphy.gif" width ="40"><b> About me</b>
+</h1>
 
 Hello, my name is Oscar Sanchez, passionate about technology and its impact in the real world, I firmly believe that I can create innovative solutions for processes and problems, which will ultimately result in a better user experience. For this reason I became a developer excited to learn and innovate.
 
