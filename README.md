@@ -1,7 +1,4 @@
 <h3>
-  <a href="https://visitcount.itsvg.in" aling="left">
-    <img src="https://visitcount.itsvg.in/api?id=osukarusof&label=Profile%20Views&color=1&icon=5&pretty=true" width="153"/>
-  </a>
   <img align="right" alt="total repositories" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Ibague,Tolima-Colombia-236ad3?style=for-the-badge&logo=location&logoColor=white"/>
 </h3>
 
